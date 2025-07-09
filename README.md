@@ -12,7 +12,7 @@ This project builds a machine learning model to predict whether a patient is dia
 - 🤖 **Model Used:** Support Vector Machine (Linear Kernel)  
 - 📊 **Dataset:** PIMA Indians Diabetes dataset (768 entries, 8 features)  
 - 🧼 **Preprocessing:** Feature standardization using `StandardScaler`, train-test splitting using `train_test_split`  
-- 📈 **Accuracy:** Achieved ~73% test accuracy  
+- 📈 **Accuracy:** Achieved ~77% test accuracy  
 - 🧪 **Toolkits:** `scikit-learn`, `pandas`, `numpy`, `matplotlib`
 
 ---
